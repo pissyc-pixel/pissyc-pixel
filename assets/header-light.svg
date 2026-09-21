@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="308" viewBox="0 0 1120 308" role="img" aria-labelledby="title desc">
+  <title id="title">陈熙 Chen Xi</title>
+  <desc id="desc">AI Product and Agent Workflows. Product design, prototyping and evaluation.</desc>
+  <rect width="1120" height="308" rx="18" fill="#f3f4ef"/>
+  <path d="M736 0v308M928 0v308M736 77h384M736 154h384M736 231h384" stroke="#dfe3d9"/>
+  <rect x="40" y="38" width="9" height="9" rx="2" fill="#587331"/>
+  <text x="61" y="47" fill="#536147" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="600" letter-spacing="2">AI PRODUCT &amp; AGENT WORKFLOWS</text>
+  <text x="38" y="152" fill="#202b24" font-family="Segoe UI,Arial,sans-serif" font-size="84" font-weight="650" letter-spacing="-4">Chen Xi</text>
+  <text x="43" y="198" fill="#394639" font-family="Microsoft YaHei,Segoe UI,Arial,sans-serif" font-size="26" font-weight="500" letter-spacing="4">陈熙</text>
+  <path d="M42 234h640" stroke="#cdd4c8"/>
+  <text x="43" y="270" fill="#5f6b5d" font-family="Segoe UI,Arial,sans-serif" font-size="14" letter-spacing="1">TIANJIN UNIVERSITY · CLASS OF 2028</text>
+  <rect x="771" y="39" width="305" height="230" rx="12" fill="#ffffff" stroke="#d4dbcd"/>
+  <text x="796" y="71" fill="#6d7868" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="600" letter-spacing="2">MY PRACTICE</text>
+  <circle cx="804" cy="110" r="5" fill="#739743"/>
+  <text x="824" y="116" fill="#2e3d2d" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="500">Product design</text>
+  <path d="M804 122v28" stroke="#c4cfb9"/>
+  <circle cx="804" cy="162" r="5" fill="#739743"/>
+  <text x="824" y="168" fill="#2e3d2d" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="500">Agent workflows</text>
+  <path d="M804 174v28" stroke="#c4cfb9"/>
+  <circle cx="804" cy="214" r="5" fill="#739743"/>
+  <text x="824" y="220" fill="#2e3d2d" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="500">Evaluation</text>
+</svg>

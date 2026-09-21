@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="206" viewBox="0 0 1120 206" role="img" aria-labelledby="title desc">
+  <title id="title">DIVA 工作流程</title>
+  <desc id="desc">输入活动需求，匹配 Skill 与案例，生成主视觉，经设计师确认后批量生成多尺寸素材。</desc>
+  <rect width="1120" height="206" rx="14" fill="#202a24"/>
+  <text x="30" y="35" fill="#d1e7ad" font-family="Segoe UI,Arial,sans-serif" font-size="12" letter-spacing="2">DIVA / WORKFLOW</text>
+  <path d="M30 52h1060" stroke="#455141"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="30" y="89" fill="#b7d38e" font-size="13">01</text>
+    <text x="30" y="120" fill="#f4f5ef" font-size="23" font-weight="500">Campaign brief</text>
+    <text x="30" y="151" fill="#bfcabb" font-size="15">Theme · Audience · Offer</text>
+    <text x="313" y="89" fill="#b7d38e" font-size="13">02</text>
+    <text x="313" y="120" fill="#f4f5ef" font-size="23" font-weight="500">Agent generation</text>
+    <text x="313" y="151" fill="#bfcabb" font-size="15">Skills · References · Visuals</text>
+    <text x="597" y="89" fill="#b7d38e" font-size="13">03</text>
+    <text x="597" y="120" fill="#f4f5ef" font-size="23" font-weight="500">Designer review</text>
+    <text x="597" y="151" fill="#bfcabb" font-size="15">Select the visual direction</text>
+    <text x="875" y="89" fill="#b7d38e" font-size="13">04</text>
+    <text x="875" y="120" fill="#f4f5ef" font-size="23" font-weight="500">Multi-format</text>
+    <text x="875" y="151" fill="#bfcabb" font-size="15">9 placement types</text>
+  </g>
+  <g fill="none" stroke="#95ab7d" stroke-width="1.5">
+    <path d="M260 117h24m-7-6 7 6-7 6"/>
+    <path d="M544 117h24m-7-6 7 6-7 6"/>
+    <path d="M827 117h24m-7-6 7 6-7 6"/>
+  </g>
+</svg>

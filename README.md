@@ -1,63 +1,92 @@
-# 陈熙 · Chen Xi
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg" />
+  <img src="assets/header-light.svg" alt="陈熙 Chen Xi · AI 产品与 Agent 工作流" width="100%" />
+</picture>
 
-AI 产品方向 · Agent 工作流 · 多模态内容生成 · 产品原型
+### 你好，我是陈熙。
 
-你好，我是陈熙，天津大学化学工程与工艺专业本科在读，预计 2028 年毕业。我关注 AI 在实际业务中的使用方式，做过内容生产工作流、Agent 产品方案与效果评测，也用 AI Coding 工具把需求做成可运行的原型。
+天津大学本科在读，2028 届。关注 **AI 产品、Agent 工作流与多模态内容生成**，有滴滴和第四范式的 AI 产品实习经历。
 
-## 我的公开项目
+我从实际使用场景出发，做需求分析、产品设计、工作流搭建和效果评测，也用 AI Coding 把方案做成可以运行的产品原型。
 
-### Native Comms Polisher · 英文沟通与内容本地化
+[代表项目](#代表项目) · [公开作品](#公开作品) · [经历与实践](#经历与实践) · [GitHub](https://github.com/pissyc-pixel?tab=repositories)
 
-针对英文沟通中语气不自然、承诺程度被改写，以及海外短视频文案不适配的问题，我将沟通场景、事实约束与平台要求整理为可复用的 Codex Skill。公开仓库包含 Skill、参考规则与验收案例。
+## 代表项目
 
-[查看 Skill 与使用说明](https://github.com/pissyc-pixel/native-english)
+### DIVA · AI 营销素材工作台
 
-### Freshmanto · 大学生成长模拟 Demo
+**需求分析 / 产品设计 / Agent 工作流 / 上线落地**
 
-围绕大学生对学业、实习与就业选择的困惑，参与实现可反复体验的大学生活模拟：用规则处理选择与结果，用 AI 生成月记和成长回顾。公开仓库提供产品说明、界面截图和代码，当前用于原型演示与内测。
+面向设计与运营团队的营销素材制作需求，我负责 DIVA 的需求分析、产品设计与 Agent 工作流落地。将活动主题、人群与利益点转为结构化输入，由 Agent 匹配设计 Skill 和历史案例，生成多版主视觉；经设计师确认后，再批量延展不同尺寸素材。
 
-[查看 Demo 项目与产品文档](https://github.com/pissyc-pixel/freshmanto)
+<img src="assets/diva-workflow.svg" alt="DIVA 工作流程：输入活动需求，Agent 匹配 Skill 并生成主视觉，设计师确认，批量适配多类广告位。" width="100%" />
 
-### Code-Ready · AI 编程工具桌面助手
+针对中文失真与 Logo 变形，采用 **AI 生成背景、脚本叠加文字与品牌元素**的分层方案。工具已纳入设计团队工作流，支持 **9 类广告位**，应用于 **5 场运营活动**。
 
-围绕 AI 编程工具的环境准备与管理，探索桌面助手的产品实现。当前公开的 V2 处于基础框架阶段，已有桌面应用骨架、工具定义与平台抽象，检测和安装能力仍待接入。
+### Agent 知乎 · 观点图谱与多 Agent 圆桌
 
-[查看代码与当前进度](https://github.com/pissyc-pixel/Code-Ready)
+**产品方案 / 角色与 Prompt 设计 / 后端联调**
 
-## 合作项目
+将已有回答中的观点、立场与依据整理为图谱，并通过多 Agent 圆桌补充不同讨论视角。我负责产品方案、原型与角色设计，参与后端实现和联调，围绕重复表达、偏题与角色一致性迭代讨论规则。
 
-以下项目由我与两位伙伴共同参与。链接指向伙伴维护的公开展示，展示团队产出；具体工作按协作项目说明，不将全部成果归为个人独立完成。
+完成可演示 Demo，获 **知乎全球 A2A 黑客松知乎特别奖**。
 
-**AI 内容生产与海外增长**  
-针对健身内容生产中的素材组织、生成质量与复盘问题，我参与内容工作流实践，结合自身实习中的语言本地化、Prompt 优化和 A/B Test 工作，推进从内容生成到效果验证。公开产物包含动作库、提示词、质检清单和内容复盘。
+## 公开作品
 
-[查看内容工作流与案例](https://github.com/Xiesy0229/daily-fitness-illustration-workflow)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**HR-RAG 知识助手**  
-针对政策信息分散、回答缺少依据的问题，我参与团队的知识问答产品实践。公开方案展示文档分块、检索、答案引用，以及资料不足时拒答和转人工的处理方式。
+### Native Comms Polisher
 
-[查看产品方案与学习手册](https://github.com/Xiesy0229/hr-rag-assistant)
+**英文沟通与内容本地化 Skill**
 
-**多模态创作与生图工作台**  
-我参与 Artioo 多模态平台与 D-Design 生图工作台相关合作项目，关注模型表现、创作流程和生成结果的质量控制。公开介绍整理了模型评测和营销物料创作场景。
+把语气自然度、事实保留、承诺程度与平台表达要求整理为可复用的 Codex Skill，包含参考规则与验收案例。
 
-[访问 Artioo](https://artioo.cn/) · [查看伙伴整理的合作项目介绍](https://github.com/Xiesy0229#selected-projects--代表项目)
+[查看项目与安装说明](https://github.com/pissyc-pixel/native-english)
+
+</td>
+<td width="50%" valign="top">
+
+### Freshmanto
+
+**大学生成长模拟 Demo**
+
+用可交互的大学生活模拟探索学业、实习与就业选择。以规则处理行动与结果，由 AI 生成月记和成长回顾。
+
+[查看 Demo、截图与产品文档](https://github.com/pissyc-pixel/freshmanto)
+
+</td>
+</tr>
+</table>
+
+**Code-Ready** · AI 编程环境桌面工具，围绕工具检测、首次引导与状态展示持续迭代。[查看开发进展](https://github.com/pissyc-pixel/Code-Ready)
+
+## 经历与实践
+
+**滴滴出行 · AI 产品实习**  
+负责 DIVA 营销素材工具，以及海外 AI 工具的内容生产与增长实验。搭建趋势采集、卖点匹配、内容生成和合规审核的多 Agent 工作流，通过内容测试迭代生成与分发策略。
+
+**第四范式 · AI 产品实习**  
+参与 Agent 内容供给系统的流程设计、工具接入与质量标准建设，配置和运营 Agent 账号，完善内容审核、异常处理与运行复盘。
+
+我习惯先明确用户任务和使用约束，再设计流程、原型与验收条件，最后通过样例评测和数据复盘判断效果。
+
+`Agent 工作流` `Prompt & Skill` `多模态生成` `产品设计` `Python / SQL` `Figma` `Claude Code / Codex`
 
 <details>
-<summary>更多合作项目：企业服务产品与健身服务系统</summary>
+<summary>更多项目资料</summary>
 
-**企业服务产品方案**：参与团队的产品设计实践，围绕企业认证、业务规则和操作流程开展协作。公开作品集包含需求文档与交互原型。  
-[查看 PRD 与原型](https://github.com/Xiesy0229/prd-portfolio-public)
+以下是我参与的其他项目，链接直达公开案例与作品。
 
-**Triple 健身服务系统**：参与会员、教练与运营三端的产品实践，关注预约、训练反馈和后台管理之间的协作。公开仓库提供功能架构和交互原型。  
-[查看三端产品方案](https://github.com/Xiesy0229/triple-product-system)
+- [AI 内容生产工作流与案例复盘](https://github.com/Xiesy0229/daily-fitness-illustration-workflow)
+- [HR-RAG 知识助手：产品方案与学习手册](https://github.com/Xiesy0229/hr-rag-assistant)
+- [企业服务产品：PRD 与交互原型](https://github.com/Xiesy0229/prd-portfolio-public)
+- [Triple 健身服务三端系统](https://github.com/Xiesy0229/triple-product-system)
 
 </details>
 
-## 经历与工作方式
+---
 
-天津大学 · 化学工程与工艺 · 本科在读 · 预计 2028 年毕业  
-滴滴出行 · AI 产品实习生 · 2026.07 至 2026.09  
-第四范式 · AI 产品实习生 · 2026.04 至 2026.06
-
-我习惯先明确用户任务与使用约束，再整理流程、原型和验收条件；用案例评测与数据复盘判断是否需要调整。常用 Claude Code、Codex、Python、SQL 和 Figma，关注 Agent 编排、Skill、工具调用、RAG 与 AI 内容生产。
+<sub>陈熙 · Chen Xi · AI Product & Agent Workflows</sub>
