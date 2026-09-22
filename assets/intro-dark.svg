@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title"><title id="title">陈熙 Chen Xi · 设计 AI 产品，也把它做出来。</title>
+<rect x="0.5" y="0.5" width="1199" height="379" rx="20" fill="#202521" stroke="#424b40"/>
+<rect x="46" y="42" width="8" height="8" rx="2" fill="#ed9973"/>
+<text x="68" y="50" fill="#b6b9ac" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600" letter-spacing="2.1">AI PRODUCT &amp; AGENT WORKFLOWS</text>
+<text x="43" y="173" fill="#f3efe5" font-family="Georgia,Times New Roman,serif" font-size="109" letter-spacing="-4">Chen Xi</text>
+<text x="449" y="167" fill="#f3efe5" font-family="Microsoft YaHei,Arial,sans-serif" font-size="36" letter-spacing="4">陈熙</text>
+<text x="48" y="232" fill="#f3efe5" font-family="Microsoft YaHei,Arial,sans-serif" font-size="29" font-weight="500">设计 AI 产品，也把它做出来。</text>
+<path d="M48 282h1104" stroke="#424b40"/>
+<text x="48" y="332" fill="#b6b9ac" font-family="Microsoft YaHei,Arial,sans-serif" font-size="18">天津大学 · 2028 届</text>
+<text x="1152" y="332" text-anchor="end" fill="#b6b9ac" font-family="Segoe UI,Arial,sans-serif" font-size="14" letter-spacing="1.6">DESIGN / BUILD / EVALUATE</text>
+<circle cx="1013" cy="152" r="99" fill="#664b3b" opacity="0.55"/>
+<g transform="translate(854 78) rotate(-12 90 78)"><rect width="147" height="163" rx="10" fill="#3b4835" stroke="#b6b9ac" stroke-opacity="0.24"/><path d="M22 37h80M22 52h100M22 110h74M22 125h98" stroke="#b6b9ac" stroke-opacity="0.45" stroke-width="2"/></g>
+<g transform="translate(971 65) rotate(11 68 84)"><rect width="145" height="165" rx="10" fill="#30392e" stroke="#424b40"/><rect x="18" y="20" width="109" height="72" rx="5" fill="#664b3b"/><circle cx="53" cy="48" r="11" fill="#ed9973"/><path d="M18 115h63M18 131h107M18 145h80" stroke="#b6b9ac" stroke-opacity="0.5" stroke-width="2"/></g>
+</svg>

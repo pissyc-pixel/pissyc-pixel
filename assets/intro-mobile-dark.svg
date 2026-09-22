@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="320" viewBox="0 0 600 320" role="img" aria-labelledby="title"><title id="title">陈熙 Chen Xi · 天津大学 2028 届 · AI 产品与 Agent 工作流</title>
+<rect x="0.5" y="0.5" width="599" height="319" rx="20" fill="#202521" stroke="#424b40"/>
+<rect x="32" y="32" width="8" height="8" rx="2" fill="#ed9973"/>
+<text x="53" y="41" fill="#b6b9ac" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="600" letter-spacing="1.8">AI PRODUCT / AGENT WORKFLOWS</text>
+<text x="28" y="143" fill="#f3efe5" font-family="Georgia,Times New Roman,serif" font-size="86" letter-spacing="-3">Chen Xi</text>
+<text x="354" y="137" fill="#f3efe5" font-family="Microsoft YaHei,Arial,sans-serif" font-size="33" letter-spacing="3">陈熙</text>
+<text x="32" y="205" fill="#f3efe5" font-family="Microsoft YaHei,Arial,sans-serif" font-size="29" font-weight="500">设计 AI 产品，也把它做出来。</text>
+<path d="M32 243h536" stroke="#424b40"/>
+<text x="32" y="286" fill="#b6b9ac" font-family="Microsoft YaHei,Arial,sans-serif" font-size="22">天津大学 · 2028 届</text>
+<path d="M505 281h54m-11-11 11 11-11 11" fill="none" stroke="#ed9973" stroke-width="2"/>
+</svg>
